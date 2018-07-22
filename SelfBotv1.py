@@ -19,7 +19,7 @@ if (six.PY2):
     import urllib
 
 cl = LINETCR.LINE()
-cl.login(token="")
+cl.login(token="EvCDtXKDupSbrPoVONS8.kKbosyYPWzOnDflX0dbQca.fabQnsAWrkPOpMxprBW4KAEE3JuzKAq916mz/7ww7iM=")
 cl.loginResult()
 
 print "==================[Login Success]==================="
